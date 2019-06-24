@@ -8,7 +8,7 @@
     <img alt="GPL" src="https://img.shields.io/badge/license-GPL(%3E%3D2.0)-green.svg?style=plastic">
   </a>
   <a>
-    <img alt="Language" src="https://img.shields.io/badge/language-python-brightgreen.svg">
+    <img alt="Language" src="https://img.shields.io/badge/language-python-brightgreen.svg?style=plastic">
   </a>
 </p>
 
