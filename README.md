@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/VVVVictorJ/Summer-Project/blob/master/LICENSE">
-    <img alt="GPL" src="https://img.shields.io/badge/license-GPL(%3E%3D2.0)-green.svg?style=plastic">
+    <img alt="GPL" src="https://img.shields.io/badge/license-GPL(3.0)-informational.svg?style=plastic">
   </a>
   <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE">
     <img alt="996icu" src="https://img.shields.io/badge/license-996icu-important.svg?style=plastic">
