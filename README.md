@@ -11,7 +11,7 @@
     <img alt="Language" src="https://img.shields.io/badge/language-python-brightgreen.svg?style=plastic">
   </a>
 </p>
-[![license](https://img.shields.io/badge/Android%20Weekly-%23230-blue.svg)](http://androidweekly.net/issues/issue-230)
+[![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23230-blue.svg)](http://androidweekly.net/issues/issue-230)
 
 ## 项目简介
 - 南京苏博工业设计公司软件开发项目
