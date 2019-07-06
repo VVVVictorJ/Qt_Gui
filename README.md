@@ -10,6 +10,9 @@
   <a>
     <img alt="Language" src="https://img.shields.io/badge/language-python-brightgreen.svg?style=plastic">
   </a>
+  <a>
+    <img alt="test" src="https://img.shields.io/badge/test-0%25-9cf.svg?style=plastic">
+  </a>
 </p>
 
 
